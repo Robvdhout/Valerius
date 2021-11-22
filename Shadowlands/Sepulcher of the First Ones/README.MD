@@ -1,1 +1,1 @@
-[Solitary Guardian](Solitary Guardian.md)
+[Solitary Guardian](Solitary%20Guardian.md)
